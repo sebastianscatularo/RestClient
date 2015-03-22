@@ -1,7 +1,7 @@
 {
     "name": "sebastianscatularo/rest-client",
     "description": "CURL based rest client",
-    "license": "GNU/GPL v3",
+    "license": "GPLv3",
     "authors": [
         {
             "name": "Sebastian Scatularo",
