@@ -1,0 +1,28 @@
+{
+    "name": "sebastianscatularo/rest-client",
+    "description": "CURL based rest client",
+    "license": "GNU/GPL v3",
+    "authors": [
+        {
+            "name": "Sebastian Scatularo",
+            "email": "sebastianscatularo@gmail.com"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin",
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/main/php"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "kherge/box": "~2.5",
+        "phpunit/phpunit": "~4.5"
+    },
+    "require": {
+        "psr/log": "~1.0"
+    }
+}

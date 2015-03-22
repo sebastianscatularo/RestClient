@@ -1,0 +1,8 @@
+/vendor/
+/nbproject/private/
+/nbproject
+
+/bin/box
+/bin/jsonlint
+/bin/phpunit
+/bin/validate-json
